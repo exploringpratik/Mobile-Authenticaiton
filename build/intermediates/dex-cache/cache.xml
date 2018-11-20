@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sumeet Jain\Downloads\AccountKit-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Sumeet Jain\Downloads\AccountKit-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1eb6d37fd7f26f7c756c7d5841014d7ecd27af27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sumeet Jain\Downloads\AccountKit-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2053bab1e404c7db30bcb5798bf7ede2ff78eda6">
+        <dex dex="C:\Users\Sumeet Jain\Downloads\AccountKit-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ede52564146cd273162d2c50ad9553b658aa5c71\classes.dex" />
+    </item>
+
+</items>
